@@ -2,7 +2,7 @@
 
 The React Accordion is a simple accordion component built using React and Vite. It provides an intuitive way for users to toggle sections to reveal or hide content.
 
-### Live @: https://accordiondemo.netlify.app/
+### Live @: https://accordiondemo.netlify.app/ 🔗
 
 ### Features 🛠️
 * Clickable accordion sections for easy toggling.
